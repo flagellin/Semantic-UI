@@ -2,13 +2,3 @@
          Theme Overrides
 *******************************/
 
-.ui.segment {
-  padding: 0;
-  .segment-header {
-    padding: @horizontalPadding;
-    border-bottom: @borderWidth solid @borderColor;
-  }
-  .segment-body {
-    padding: @horizontalPadding;
-  }
-}
